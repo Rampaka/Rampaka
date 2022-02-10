@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Rampaka/Rampaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Rampaka/Rampaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
+
+![Webp net-gifmaker_3](https://user-images.githubusercontent.com/53488652/153341576-b80c3e34-2fe4-475f-a096-e3052f56427b.gif)
