@@ -2,7 +2,7 @@
 
 <a href="https://discordapp.com/users/435841275632287745" target="_blank"><img src="https://img.shields.io/badge/Rampaka-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"/></a>
 <a href="https://github.com/Rampaka" target="_blank"><img src="https://img.shields.io/badge/Rampaka-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-<a href="cccaatt@icloud.com" target="_blank"><img src="https://img.shields.io/badge/cccaatt@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF"/></a>
+<a href="mailto:cccaatt@icloud.com" target="_blank"><img src="https://img.shields.io/badge/cccaatt@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF"/></a>
 <!-- **Rampaka/Rampaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
