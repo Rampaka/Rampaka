@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
-![Webp net-gifmaker_3](https://user-images.githubusercontent.com/53488652/153341576-b80c3e34-2fe4-475f-a096-e3052f56427b.gif)
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=python&logoColor=3776AB"/></a>
