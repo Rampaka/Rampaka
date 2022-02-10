@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 📦 Experience  
 <a><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/></a>
