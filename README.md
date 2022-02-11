@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ##### 💻 OS  
 <a><img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/></a>
 
 ##### 🇰🇷 Language  
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a> 
@@ -38,6 +37,7 @@ Here are some ideas to get you started:
 <a><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=FFFFFF"/></a>
 
 ##### 📦 Experience  
+<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/></a>
