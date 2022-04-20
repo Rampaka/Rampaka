@@ -49,8 +49,9 @@ Here are some ideas to get you started:
 ##### 🧑‍💻 Learning  
 <a><img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=FFFFFF"/></a>
-<a><img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=FFFFFF"/></a>
+<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/></a>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/></a>
 
