@@ -1,4 +1,4 @@
-# Hi, i am Rampaka 🇰🇷
+# Hi, i am Rampaka 🥳
 
 <a href="https://discordapp.com/users/435841275632287745" target="_blank"><img src="https://img.shields.io/badge/Rampaka-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF"/></a>
 <a href="https://github.com/Rampaka" target="_blank"><img src="https://img.shields.io/badge/Rampaka-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
